@@ -17,7 +17,7 @@
     
 ## Database Used 
   * h2 Database
-  * 
+    
 ## Data flow
   **The project has four main packages which are following** 
   
